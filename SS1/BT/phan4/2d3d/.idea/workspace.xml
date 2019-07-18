@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="475d3a57-20c9-4b78-837b-1b9f78c372ab" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../phan3/stopwatch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../phan3/stopwatch/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../phan3/stopwatch/src/Stopwatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../phan3/stopwatch/src/Stopwatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,7 +21,7 @@
         <entry file="file://$PROJECT_DIR$/src/Point2D.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="e#198#199#0" expanded="true" />
                 <element signature="e#222#223#0" expanded="true" />
@@ -42,8 +41,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Point3D.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+            <state relative-caret-position="612">
+              <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
               <folding>
                 <element signature="e#112#113#0" expanded="true" />
                 <element signature="e#132#133#0" expanded="true" />
@@ -51,8 +50,6 @@
                 <element signature="e#280#281#0" expanded="true" />
                 <element signature="e#313#314#0" expanded="true" />
                 <element signature="e#339#340#0" expanded="true" />
-                <element signature="e#491#492#0" expanded="true" />
-                <element signature="e#515#516#0" expanded="true" />
                 <element signature="e#655#656#0" expanded="true" />
                 <element signature="e#715#716#0" expanded="true" />
               </folding>
@@ -120,6 +117,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../TH/phan4/hecacdoituonghinhhoc/src/Shape.java" />
   </component>
   <component name="RunDashboard">
@@ -171,7 +169,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -186,7 +183,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32843137" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32843137" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32843137" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -222,7 +219,7 @@
     <entry file="file://$PROJECT_DIR$/src/Point2D.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="e#198#199#0" expanded="true" />
             <element signature="e#222#223#0" expanded="true" />
@@ -240,8 +237,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Point3D.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        <state relative-caret-position="612">
+          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
           <folding>
             <element signature="e#112#113#0" expanded="true" />
             <element signature="e#132#133#0" expanded="true" />
@@ -249,8 +246,6 @@
             <element signature="e#280#281#0" expanded="true" />
             <element signature="e#313#314#0" expanded="true" />
             <element signature="e#339#340#0" expanded="true" />
-            <element signature="e#491#492#0" expanded="true" />
-            <element signature="e#515#516#0" expanded="true" />
             <element signature="e#655#656#0" expanded="true" />
             <element signature="e#715#716#0" expanded="true" />
           </folding>
